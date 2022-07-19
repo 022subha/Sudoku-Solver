@@ -34,6 +34,7 @@ This is a program which solves 9x9 Sudoku puzzles. **Written completely in C++**
         ```
 
 * Once solved, the Sudoku puzzles shall be displayed like this.
+* 
 ++=====================================++
 || 1   7   2 || 5   4   9 || 6   8   3 ||
 
@@ -53,6 +54,7 @@ This is a program which solves 9x9 Sudoku puzzles. **Written completely in C++**
 
 || 5   2   8 || 9   3   4 || 1   6   7 ||
 ++=====================================++
+
 
 ### How It Works
 This particular algorithm employs the use of backtracking, one of the more common methods to solve Sudoku puzzles. I've written a simple algorithm to give an idea of how the program works.
