@@ -8,7 +8,6 @@ These are a suite of C++ programs which deal with Sudoku Puzzles. The name might
 * [Sudoku Validator](#sudoku-validator)
     * [Getting Started (Usage)](#getting-started-1)
     * [How It Works](#how-it-works-1)
-* [Acknowledgements](#acknowledgements)
 * [Tools](#tools)
 
 # Sudoku-Solver
