@@ -1,5 +1,5 @@
 # Introduction
-These are a suite of C++ programs which deal with Sudoku Puzzles. The name might be misleading, yes, but these programs don't just solve Sudoku puzzles, they also achieve other objectives such as Sudoku Puzzle Validation and Sudoku Puzzle Generation.
+These are a suite of C++ programs which deal with Sudoku Puzzles. These programs don't just solve Sudoku puzzles, but also achieve other objectives such as Sudoku Puzzle Validation.
 
 ## Contents
 * [Sudoku Solver](#sudoku-solver)
